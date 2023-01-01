@@ -1,4 +1,6 @@
-<h1 align="center">𝙳𝚎𝚟 𝚠𝚎𝚕𝚌𝚘𝚖𝚎𝚜 𝚢𝚘𝚞 𝚊𝚐𝚊𝚒𝚗</h1>
+<div align='center'><a href="https://ibb.co/YftSd25"><img src="https://i.ibb.co/r5ZhpkB/Red-Black-White-Anime-Podcast-Twitch-Banner-1.png" alt="Red-Black-White-Anime-Podcast-Twitch-Banner-1" border="0"></a>
+</div>
+
 
 <br>
 
