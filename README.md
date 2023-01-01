@@ -1,5 +1,5 @@
 <h1 align="center">𝙳𝚎𝚟 𝚠𝚎𝚕𝚌𝚘𝚖𝚎𝚜 𝚢𝚘𝚞 𝚊𝚐𝚊𝚒𝚗</h1>
-<h3 align="center">A passionate programmer from India</h3>
+
 <br>
 
 
@@ -38,6 +38,10 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  
+  <p><h4 align="left"> <strong>Frameworks</strong></h4>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="" />
 </div>
 
