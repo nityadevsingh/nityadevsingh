@@ -1,6 +1,3 @@
-<div align='center'><a href="https://ibb.co/YftSd25"><img src="https://i.ibb.co/r5ZhpkB/Red-Black-White-Anime-Podcast-Twitch-Banner-1.png" alt="Red-Black-White-Anime-Podcast-Twitch-Banner-1" border="0"></a>
-</div>
-
 
 <br>
 
